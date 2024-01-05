@@ -1,1 +1,1 @@
-1
+1. git clone --single-branch -b <BRANCH-NAME> <LINK-OF-THE-REPO>
